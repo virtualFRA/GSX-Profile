@@ -31,7 +31,7 @@ Terminal1ASE = CustomizedName("Terminal 1 - A Gates [SE] (A1-A40 (V143+V144)) | 
 Terminal1AN = CustomizedName("Terminal 1 - A Gates [N] (A50-A69) | Gate A#§",2)
 
 Terminal1BW = CustomizedName("Terminal 1 - B Gates [W] (B10-B27) | Gate B#§",3)
-Terminal1BE = CustomizedName("Terminal 1 - B Gates [E] (B41-B47) | Gate B#§",4)
+Terminal1BE = CustomizedName("Terminal 1 - B Gates [E] (B41-B48) | Gate B#§",4)
 
 Terminal1CW = CustomizedName("Terminal 1 - C Gates [W] (C2-C11) | Gate C#§",5)
 Terminal2CE = CustomizedName("Terminal 2 - C Gates [E] (C13-C16) | Gate C#§",6)
