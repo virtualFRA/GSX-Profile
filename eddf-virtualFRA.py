@@ -121,8 +121,8 @@ parkings = {
         25 : (Terminal1BW, ),
         26 : (Terminal1BW, ),
         27 : (Terminal1BW, ),
+        28 : (Terminal1BW, ),
         
-        28 : (Terminal1BE, ),
         41 : (Terminal1BE, ),
         42 : (Terminal1BE, ),
         43 : (Terminal1BE, ),
