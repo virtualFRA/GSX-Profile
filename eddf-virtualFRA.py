@@ -43,10 +43,10 @@ LHCargo = CustomizedName("LH Cargo Ramp (F211-F225) | Stand F#§",9)
 NECargoF = CustomizedName("Cargo Ramp (F231-V270) | Stand F#§",10)
 NECargoV = CustomizedName("Cargo Ramp (F231-V270) | Stand V#§",10)
 
-VRampE = CustomizedName("Victor Ramp [E] (V94-V118) | Stand V#§",11)
-VRampCE = CustomizedName("Victor Ramp [Center E] (V119-V130) | Stand V#§",12)
-VRampCW = CustomizedName("Victor Ramp [Center W] (V134-V163) | Stand V#§",13)
-VRampW = CustomizedName("Victor Ramp [W] (V164-V178) | Stand V#§",14)
+VRampE = CustomizedName("Victor Ramp (V94-V118) | Stand V#§",11)
+VRampCE = CustomizedName("Victor Ramp (V119-V130) | Stand V#§",12)
+VRampCW = CustomizedName("Victor Ramp (V134-V163) | Stand V#§",13)
+VRampW = CustomizedName("Victor Ramp V164-V178) | Stand V#§",14)
 
 GAArea = CustomizedName("GA Area (S401-S420) | Stand S#",15)
 
@@ -55,11 +55,11 @@ SRamp = CustomizedName("Sierra Ramp [S] (S501-S604) | Stand S#",16)
 Terminal3WG = CustomizedName("Terminal 3 - G Gates [W] (G1-G16) | Gate G#§",17)
 Terminal3CH = CustomizedName("Terminal 3 - H Gates [C] (H2-H14) | Gate H#§",18)
 
-Terminal3EJ = CustomizedName("Terminal 3 - J+K Gates [E] (J2-J11+K2-K10) | Gate J#§",19)
-Terminal3EK = CustomizedName("Terminal 3 - J+K Gates [E] (J2-J11+K2-K10) | Gate K#§",19)
+Terminal3EJ = CustomizedName("Terminal 3 - J+K Gates (J2-J11+K2-K10) | Gate J#§",19)
+Terminal3EK = CustomizedName("Terminal 3 - J+K Gates (J2-J11+K2-K10) | Gate K#§",19)
 
-VRampSW = CustomizedName("Victor Ramp [SW] (V322-V328) | Stand V#§",20)
-VRampSE = CustomizedName("Victor Ramp [SE] (V701-V721) | Stand V#§",21)
+VRampSW = CustomizedName("Victor Ramp (V322-V328) | Stand V#§",20)
+VRampSE = CustomizedName("Victor Ramp+GAT(V701-V721) | Stand V#§",21)
 
 
 parkings = {
