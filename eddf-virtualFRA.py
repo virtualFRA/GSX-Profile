@@ -27,21 +27,21 @@ def customOffsetequal(aircraftData):
     return Distance.fromMeters( table.get(aircraftData.idMajor, 0) )
 
 
-Terminal1ASE = CustomizedName("Terminal 1 - A Gates [SE] (A1-A40 (V143+V144)) | Gate A#§",1)
-Terminal1AN = CustomizedName("Terminal 1 - A Gates [N] (A50-A69) | Gate A#§",2)
+Terminal1ASE = CustomizedName("Terminal 1 - A Gates (A1-A40 (V143+V144)) | Gate A#§",1)
+Terminal1AN = CustomizedName("Terminal 1 - A Gates (A50-A69) | Gate A#§",2)
 
-Terminal1BW = CustomizedName("Terminal 1 - B Gates [W] (B10-B27) | Gate B#§",3)
-Terminal1BE = CustomizedName("Terminal 1 - B Gates [E] (B41-B48) | Gate B#§",4)
+Terminal1BW = CustomizedName("Terminal 1 - B Gates (B10-B27) | Gate B#§",3)
+Terminal1BE = CustomizedName("Terminal 1 - B Gates (B41-B48) | Gate B#§",4)
 
-Terminal1CW = CustomizedName("Terminal 1 - C Gates [W] (C2-C11) | Gate C#§",5)
-Terminal2CE = CustomizedName("Terminal 2 - C Gates [E] (C13-C16) | Gate C#§",6)
+Terminal1CW = CustomizedName("Terminal 1 - C Gates (C2-C11) | Gate C#§",5)
+Terminal2CE = CustomizedName("Terminal 2 - C Gates (C13-C16) | Gate C#§",6)
 
-Terminal2DW = CustomizedName("Terminal 2 - D Gates [W] (D1-D8) | Gate D#§",7)
-Terminal2EE = CustomizedName("Terminal 2 - E Gates [E] (E2-E9) | Gate E#§",8)
+Terminal2DW = CustomizedName("Terminal 2 - D Gates (D1-D8) | Gate D#§",7)
+Terminal2EE = CustomizedName("Terminal 2 - E Gates (E2-E9) | Gate E#§",8)
 
 LHCargo = CustomizedName("LH Cargo Ramp (F211-F225) | Stand F#§",9)
-NECargoF = CustomizedName("NE Cargo Ramp (F231-V270) | Stand F#§",10)
-NECargoV = CustomizedName("NE Cargo Ramp (F231-V270) | Stand V#§",10)
+NECargoF = CustomizedName("Cargo Ramp (F231-V270) | Stand F#§",10)
+NECargoV = CustomizedName("Cargo Ramp (F231-V270) | Stand V#§",10)
 
 VRampE = CustomizedName("Victor Ramp [E] (V94-V118) | Stand V#§",11)
 VRampCE = CustomizedName("Victor Ramp [Center E] (V119-V130) | Stand V#§",12)
